@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 What am I busy with now? 
 
 - 🔭 I’m currently working on ...General Assembly DSIF5 course
 - 🌱 I’m currently learning ...Data Science with Python, SQL
