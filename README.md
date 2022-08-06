@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on ...Healthcare resource problems
 - 🤔 I’m looking for help with ... finding a job that is family-friendly
 - 💬 Ask me about ...Healthtech
-- 📫 How to reach me: ...<a href='https://www.linkedin.com/in/yxmauw/'><img align='right' src='https://github.com/yxmauw/yxmauw/blob/main/logos/linkedin_logo.png' alt='icon | LinkedIn' width='21px'/></a>
+- 📫 How to reach me: ...<a href='https://www.linkedin.com/in/yxmauw/'><img align='auto' src='https://github.com/yxmauw/yxmauw/blob/main/logos/linkedin_logo.png' alt='icon | LinkedIn' width='21px'/></a>
 - 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: ...I am a registered physician
 
