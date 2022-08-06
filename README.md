@@ -1,6 +1,6 @@
 ### Hi there 👋 What am I busy with now? 
 
-<img src="https://mobisoftinfotech.com/resources/wp-content/uploads/2019/03/benefits-data-science-healthcare-blog.png" width='500'/><figcaption>mobisoftinfotech.com</figcaption>
+<img src="https://mobisoftinfotech.com/resources/wp-content/uploads/2019/03/benefits-data-science-healthcare-blog.png" width='1000' height='200'/><figcaption>Credit: mobisoftinfotech.com</figcaption>
 
 - 🔭 I’m currently working on ...General Assembly DSIF5 course
 - 🌱 I’m currently learning ...Data Science with Python, SQL
