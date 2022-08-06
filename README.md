@@ -7,5 +7,5 @@
 - 💬 Ask me about ...Healthtech
 - 📫 How to reach me: ...My [LinkedIn](https://www.linkedin.com/in/yxmauw/)
 - 😄 Pronouns: ...She/Her
-- ⚡ Fun fact: ...I am a Registered physician
+- ⚡ Fun fact: ...I am a registered physician
 
