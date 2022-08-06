@@ -9,7 +9,7 @@
 - 💬 Ask me about ...Healthtech
 - 📫 How to reach me: ...<a href='https://www.linkedin.com/in/yxmauw/'><img align='auto' src='https://github.com/yxmauw/yxmauw/blob/main/logos/linkedin_logo.png' alt='icon | LinkedIn' width='21px'/></a>
 - 😄 Pronouns: ...She/Her
-- ⚡ Fun fact: ...I am a registered physician
+- ⚡ Fun fact: ...I lived in Australia for 9.5 years
 
 ## Skills & Endorsements
 I would like to add you to my professional network on the GITHUB.
