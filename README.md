@@ -7,7 +7,8 @@
 - 👯 I’m looking to collaborate on ...Healthcare resource problems
 - 🤔 I’m looking for help with ... finding a job that is family-friendly
 - 💬 Ask me about ...Healthtech
-- 📫 How to reach me: ...<a href='https://www.linkedin.com/in/yxmauw/'><img align='auto' src='https://github.com/yxmauw/yxmauw/blob/main/logos/linkedin_logo.png' alt='icon | LinkedIn' width='21px'/></a><a href='mailto:jewelbelle@gmail.com?subject=Love%20Your%20GitHub!'><img align='auto' src='https://github.com/yxmauw/yxmauw/blob/main/logos/gmail_logo.png' alt='icon | Gmail' width='21px'/></a>
+- 📫 How to reach me: ...<a href='https://www.linkedin.com/in/yxmauw/'><img align='auto' src='https://github.com/yxmauw/yxmauw/blob/main/logos/linkedin_logo.png' alt='icon | LinkedIn' width='21px'/></a> 
+<a href='mailto:jewelbelle@gmail.com?subject=Love%20Your%20GitHub!'><img align='auto' src='https://github.com/yxmauw/yxmauw/blob/main/logos/gmail_logo.png' alt='icon | Gmail' width='21px'/></a>
 - 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: ...I lived in Australia for 9.5 years
 
