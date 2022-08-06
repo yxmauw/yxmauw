@@ -1,6 +1,7 @@
 <!--
 <a href='https://mobisoftinfotech.com/resources/blog/data-science-in-healthcare-use-cases/'><img src="https://mobisoftinfotech.com/resources/wp-content/uploads/2019/03/benefits-data-science-healthcare-blog.png" width='1000' height='200'/></a><figcaption><i>image credit: mobisoftinfotech.com</i></figcaption>-->
-<img src='https://github.com/yxmauw/yxmauw/blob/main/logos/Banner.gif' width='1000' height='200'>
+
+<img src='https://github.com/yxmauw/yxmauw/blob/main/logos/Banner.gif' width='800' height='300'>
 
 ## Hi there 👋 What am I busy with now? 
 
