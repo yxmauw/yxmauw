@@ -11,3 +11,6 @@
 - 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: ...I am a registered physician
 
+## Skills & Endorsements
+I would like to add you to my professional network on the GITHUB.
+[Endorse New Skill!]
