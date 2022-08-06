@@ -21,7 +21,7 @@ I would like to add you to my professional network on the GITHUB.
 
 <foreignObject>
   <style>
-    typewriter h1 {
+    .typewriter h1 {
       overflow: hidden; /* Ensures the content is not revealed until the animation */
       border-right: .15em solid orange; /* The typwriter cursor */
       white-space: nowrap; /* Keeps the content on a single line */
