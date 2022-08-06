@@ -31,14 +31,14 @@ I would like to add you to my professional network on the GITHUB.
 
 /* Set a specific color for each brand */
 
-/* Facebook */
-.fa-facebook {
+/* LinkedIn */
+.fa-linkedin {
   background: #3B5998;
   color: white;
 }
 
-/* Twitter */
-.fa-twitter {
+/* Gmail */
+.fa-gmail {
   background: #55ACEE;
   color: white;
 }
