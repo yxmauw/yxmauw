@@ -19,6 +19,7 @@ I would like to add you to my professional network on the GITHUB.
 * [Endorse New Skill!](https://github.com/yxmauw/yxmauw/issues/new?assignees=&labels=&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE)
 * [Nice Projects!](https://github.com/yxmauw/yxmauw/issues/new?assignees=&labels=&template=endorse--nice-projects-.md&title=%23%23+Project%2Fs+title+%23%23)
 
+<foreignObject>
 .typewriter h1 {
   overflow: hidden; /* Ensures the content is not revealed until the animation */
   border-right: .15em solid orange; /* The typwriter cursor */
@@ -41,3 +42,5 @@ I would like to add you to my professional network on the GITHUB.
   from, to { border-color: transparent }
   50% { border-color: orange; }
 }
+</foreignObject>
+
