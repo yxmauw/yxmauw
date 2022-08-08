@@ -78,8 +78,8 @@
                     } else drawStrip(stripX[j], stripY[j]);
         
                     stripY[j] += dY[j];
-                }
-                setTimeout(draw, 70);
+                   }
+                  setTimeout(draw, 70);
                 }
             ]]></script> 
         </div>
