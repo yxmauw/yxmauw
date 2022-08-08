@@ -22,5 +22,6 @@ I would like to add you to my professional network on the GITHUB.
 <!--kept for future reference-->
 <!--
 <a href='https://mobisoftinfotech.com/resources/blog/data-science-in-healthcare-use-cases/'><img src="https://mobisoftinfotech.com/resources/wp-content/uploads/2019/03/benefits-data-science-healthcare-blog.png" width='1000' height='200'/></a><figcaption><i>image credit: mobisoftinfotech.com</i></figcaption>-->
-<link rel="stylesheet" type="text/css" href="https://github.com/yxmauw/yxmauw/blob/main/matrix_code_rain/style.css"/>
-<script src='https://github.com/yxmauw/yxmauw/blob/main/matrix_code_rain/script.js'></script>
+<foreignObject>
+  <link rel="stylesheet" href="https://github.com/yxmauw/yxmauw/blob/main/matrix_code_rain/style.css">
+  <script src='https://github.com/yxmauw/yxmauw/blob/main/matrix_code_rain/script.js'></script>
