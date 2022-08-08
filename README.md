@@ -25,3 +25,4 @@ I would like to add you to my professional network on the GITHUB.
 <foreignObject>
   <link rel="stylesheet" href="https://github.com/yxmauw/yxmauw/blob/main/matrix_code_rain/style.css">
   <script src='https://github.com/yxmauw/yxmauw/blob/main/matrix_code_rain/script.js'></script>
+</foreignObject>
