@@ -1,3 +1,4 @@
+<img src='https://github.com/yxmauw/yxmauw/blob/main/matrix_code_rain/myname_code_rain.html'>
 <img src='https://github.com/yxmauw/yxmauw/blob/main/logos/Banner.gif' width='850' height='300'>
 
 ## Hi there 👋 What am I busy with now? 
@@ -22,6 +23,3 @@ I would like to add you to my professional network on the GITHUB.
 <!--kept for future reference-->
 <!--
 <a href='https://mobisoftinfotech.com/resources/blog/data-science-in-healthcare-use-cases/'><img src="https://mobisoftinfotech.com/resources/wp-content/uploads/2019/03/benefits-data-science-healthcare-blog.png" width='1000' height='200'/></a><figcaption><i>image credit: mobisoftinfotech.com</i></figcaption>-->
-
-maintenance in progress...
-<img src='https://github.com/yxmauw/yxmauw/blob/main/matrix_code_rain/example.html'>
