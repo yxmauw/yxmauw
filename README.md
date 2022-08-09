@@ -1,4 +1,4 @@
-<img src='https://github.com/yxmauw/yxmauw/blob/main/matrix_code_rain/myname_code_rain.html'>
+<img src='/matrix_code_rain/myname_code_rain.html'>
 <img src='https://github.com/yxmauw/yxmauw/blob/main/logos/Banner.gif' width='850' height='300'>
 
 ## Hi there 👋 What am I busy with now? 
