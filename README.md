@@ -26,4 +26,4 @@ I would like to add you to my professional network on the GITHUB.
 
 
 maintenance in progress
-<img src='https://github.com/yxmauw/yxmauw/blob/main/matrix_code_rain/myname_code_rain.gif'>
+<img src='https://htmlpreview.github.io/?https://github.com/yxmauw/yxmauw/blob/main/matrix_code_rain/myname_code_rain.html'>
