@@ -1,4 +1,4 @@
-
+![maintenance-status](https://img.shields.io/badge/maintenance-actively--developed-brightgreen.svg)
 <img src='https://github.com/yxmauw/yxmauw/blob/main/logos/Banner.gif' width='850' height='300'>
 
 ## Hi there 👋 What am I busy with now? 
@@ -19,8 +19,6 @@ I would like to add you to my professional network on the GITHUB.
 
 * [Endorse New Skill!](https://github.com/yxmauw/yxmauw/issues/new?assignees=&labels=&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE)
 * [Nice Projects!](https://github.com/yxmauw/yxmauw/issues/new?assignees=&labels=&template=endorse--nice-projects-.md&title=%23%23+Project%2Fs+title+%23%23)
-
-![maintenance-status](https://img.shields.io/badge/maintenance-actively--developed-brightgreen.svg)
 
 <!--kept for future reference-->
 <!--
