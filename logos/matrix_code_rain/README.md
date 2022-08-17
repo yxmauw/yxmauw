@@ -8,5 +8,5 @@ A [Pen](https://codepen.io/imagecomic/pen/kPwYXB) by [imagecomic](https://codepe
 
 See [HTML animation](http://htmlpreview.github.io/?https://github.com/yxmauw/yxmauw/blob/main/logos/matrix_code_rain/myname_code_rain.html)
 
-![](https://github.com/yxmauw/yxmauw/blob/main/logos/matrix_code_rain/myname_code_rain.gif)
+![](https://github.com/yxmauw/yxmauw/blob/main/logos/matrix_code_rain/matrix_code_rain.gif)
 
