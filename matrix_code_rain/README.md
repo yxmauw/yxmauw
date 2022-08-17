@@ -6,4 +6,7 @@ A [Pen](https://codepen.io/imagecomic/pen/kPwYXB) by [imagecomic](https://codepe
 
 [License](https://codepen.io/license/pen/kPwYXB).
 
-See [gif](http://htmlpreview.github.io/?https://github.com/yxmauw/yxmauw/blob/main/matrix_code_rain/myname_code_rain.gif)
+See [gif](http://htmlpreview.github.io/?https://github.com/yxmauw/yxmauw/blob/main/matrix_code_rain/myname_code_rain.html)
+
+<img src='https://github.com/yxmauw/yxmauw/blob/main/matrix_code_rain/myname_code_rain.gif'>
+
