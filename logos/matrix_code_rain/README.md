@@ -15,5 +15,5 @@ See [HTML animation](http://htmlpreview.github.io/?https://github.com/yxmauw/yxm
 
 Preview:
 
-![](https://github.com/yxmauw/yxmauw/blob/main/logos/matrix_code_rain/myname_code_rain.gif)
+<img src="https://github.com/yxmauw/yxmauw/blob/main/logos/matrix_code_rain/myname_code_rain.gif" width="250" height="250"/>
 
