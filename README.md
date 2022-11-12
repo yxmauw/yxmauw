@@ -14,6 +14,7 @@
 <a href='mailto:jewelbelle@gmail.com?subject=Love%20Your%20GitHub!'><img align='auto' src='https://github.com/yxmauw/yxmauw/blob/main/logos/gmail_logo.png' alt='icon | Gmail' width='21px'/></a>
 * 😄 Pronouns: ...She/Her
 * ⚡ Fun fact: ...I lived in Australia for 9.5 years
+* My Huggingface portfolio 
 
 ## Skills & Endorsements
 I would like to add you to my professional network on the GITHUB.
