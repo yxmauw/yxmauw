@@ -7,7 +7,7 @@
 * 🔭 I’m currently working on ...AxoMem.io projects
 * 🌱 I’m currently learning ...[AI in Medicine](https://www.coursera.org/specializations/ai-for-medicine) using Python and SQL
 * 👯 I’m looking to collaborate on ...Healthcare resource problems
-* 🤔 I’m looking for help with ... finding a job that is family-friendly
+* 🤔 I’m looking for help with ... finding a job that is family-friendly (I think I might have found it)
 * 💬 Ask me about ...Healthtech
 * 📫 How to reach me: ...
 <a href='https://www.linkedin.com/in/yxmauw/'><img align='auto' src='https://github.com/yxmauw/yxmauw/blob/main/logos/linkedin_logo.png' alt='icon | LinkedIn' width='21px'/></a> 
