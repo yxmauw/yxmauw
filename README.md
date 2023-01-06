@@ -5,7 +5,7 @@
 ## Hi there 👋 What am I busy with now? 
 
 * 🔭 I’m currently working on ...AxoMem.io projects
-* 🌱 I’m currently learning ...[AI in Medicine](https://www.coursera.org/specializations/ai-for-medicine) using Python and SQL
+* 🌱 I’m currently learning ...Bachelor of Computer Science by University of the People
 * 👯 I’m looking to collaborate on ...Healthcare resource problems
 * 🤔 I’m looking for help with ... finding a job that is family-friendly (I think I might have found it 🙏)
 * 💬 Ask me about ...Healthtech
