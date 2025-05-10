@@ -16,6 +16,10 @@
 * ⚡ Fun fact: ...I lived in Australia for 9.5 years
 * My Huggingface portfolio [![Generic badge](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/yxmauw)
 
+## Self-intro video
+<video src="https://github.com/yxmauw/yxmauw/raw/refs/heads/main/assets/video_introduction.mp4" controls="controls" style="max-width: 730px;">
+</video>
+
 ## Skills & Endorsements
 I would like to add you to my professional network on the GitHub.
 
