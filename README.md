@@ -1,6 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) <!-- get badge from https://gist.github.com/qvil/5e3ed56c26d784e51424621119cc4028 --> ![maintenance-status](https://img.shields.io/badge/maintenance-actively--developed-brightgreen.svg) <!--get badge from https://gist.github.com/taiki-e/ad73eaea17e2e0372efb76ef6b38f17b -->
 
-<img src='https://github.com/yxmauw/yxmauw/blob/main/logos/self_intro1.gif' width='850' height='400'>
+<img src='https://github.com/yxmauw/yxmauw/blob/main/assets/self_intro1.gif' width='850' height='400'>
 
 ## Hi there 👋 What am I busy with now? 
 
@@ -10,8 +10,8 @@
 * 🤔 I’m looking for help with ... finding a job that is family-friendly (I think I might have found it 🙏)
 * 💬 Ask me about ...Healthtech
 * 📫 How to reach me: ...
-<a href='https://www.linkedin.com/in/yxmauw/'><img align='auto' src='https://github.com/yxmauw/yxmauw/blob/main/logos/linkedin_logo.png' alt='icon | LinkedIn' width='21px'/></a> 
-<a href='mailto:jewelbelle@gmail.com?subject=Love%20Your%20GitHub!'><img align='auto' src='https://github.com/yxmauw/yxmauw/blob/main/logos/gmail_logo.png' alt='icon | Gmail' width='21px'/></a>
+<a href='https://www.linkedin.com/in/yxmauw/'><img align='auto' src='https://github.com/yxmauw/yxmauw/blob/main/assets/linkedin_logo.png' alt='icon | LinkedIn' width='21px'/></a> 
+<a href='mailto:jewelbelle@gmail.com?subject=Love%20Your%20GitHub!'><img align='auto' src='https://github.com/yxmauw/yxmauw/blob/main/assets/gmail_logo.png' alt='icon | Gmail' width='21px'/></a>
 * 😄 Pronouns: ...She/Her
 * ⚡ Fun fact: ...I lived in Australia for 9.5 years
 * My Huggingface portfolio [![Generic badge](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/yxmauw)
