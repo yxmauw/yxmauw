@@ -20,19 +20,11 @@
 Did as part of assignment in Masters of Digital Health
 <video src="https://github.com/user-attachments/assets/0a997c81-68a2-429e-ac3f-3ce775e56814" controls="controls" style="max-width: 730px;">
 </video>
-<style>
-/* Hide download button in Chromium-based browsers */
-video::-internal-media-controls-download-button { display:none; }
-video::-webkit-media-controls-enclosure { overflow:hidden; }
-</style>
+<button onclick="document.getElementById('myVideo').play();">Play</button>
+<button onclick="document.getElementById('myVideo').pause();">Pause</button>
 
 ## Skills & Endorsements
 I would like to add you to my professional network on the GitHub.
-
-
-
-
-
 * [Endorse New Skill!](https://github.com/yxmauw/yxmauw/issues/new?assignees=&labels=&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE)
 * [Nice Projects!](https://github.com/yxmauw/yxmauw/issues/new?assignees=&labels=&template=endorse--nice-projects-.md&title=%23%23+Project%2Fs+title+%23%23)
 
