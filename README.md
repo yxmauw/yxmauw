@@ -19,6 +19,7 @@
 ## Self-intro video
 Did as part of assignment in Masters of Digital Health
 <video src="https://github.com/user-attachments/assets/0a997c81-68a2-429e-ac3f-3ce775e56814" controlsList="nodownload" style="max-width: 730px;">
+</video>
 <video oncontextmenu="return false;"  controls>
   <source src="https://github.com/user-attachments/assets/0a997c81-68a2-429e-ac3f-3ce775e56814">
 </video>
