@@ -16,11 +16,6 @@
 * ⚡ Fun fact: ...I lived in Australia for 9.5 years
 * My Huggingface portfolio [![Generic badge](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/yxmauw)
 
-## Self-intro video
-Did as part of assignment in Masters of Digital Health
-<video src="https://github.com/user-attachments/assets/0a997c81-68a2-429e-ac3f-3ce775e56814" controls controlsList="nodownload" style="max-width: 730px;" oncontextmenu="return false;">
-</video>
-
 ## Skills & Endorsements
 I would like to add you to my professional network on the GitHub.
 * [Endorse New Skill!](https://github.com/yxmauw/yxmauw/issues/new?assignees=&labels=&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE)
