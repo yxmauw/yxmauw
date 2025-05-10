@@ -20,6 +20,11 @@
 Did as part of assignment in Masters of Digital Health
 <video src="https://github.com/user-attachments/assets/0a997c81-68a2-429e-ac3f-3ce775e56814" controls="controls" style="max-width: 730px;">
 </video>
+<style>
+/* Hide download button in Chromium-based browsers */
+video::-internal-media-controls-download-button { display:none; }
+video::-webkit-media-controls-enclosure { overflow:hidden; }
+</style>
 
 ## Skills & Endorsements
 I would like to add you to my professional network on the GitHub.
