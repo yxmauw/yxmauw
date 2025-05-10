@@ -18,6 +18,7 @@
 
 ## Self-intro video
 ![Video link](https://github.com/yxmauw/yxmauw/raw/refs/heads/main/assets/video_introduction.mp4)
+<video src="https://github.com/rayytsn9/ROBOTT/assets/79029536/62f541aa-aa8c-43f5-9ead-4b7a2e0d7c2a" width="300" />
 
 ## Skills & Endorsements
 I would like to add you to my professional network on the GitHub.
